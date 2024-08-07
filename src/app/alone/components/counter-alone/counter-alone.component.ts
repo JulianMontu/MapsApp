@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'acounter-alone',
+  selector: 'counter-alone',
   standalone: true,
   templateUrl: './counter-alone.component.html',
   styleUrl: './counter-alone.component.css'
